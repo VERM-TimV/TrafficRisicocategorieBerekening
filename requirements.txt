@@ -1,0 +1,9 @@
+numpy
+pandas
+geopandas
+streamlit
+folium
+shapely
+openrouteservice
+dotenv
+pyproj
